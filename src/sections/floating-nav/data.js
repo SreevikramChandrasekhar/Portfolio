@@ -3,7 +3,7 @@ import {BsPersonFill} from 'react-icons/bs'
 import {MdHomeRepairService} from 'react-icons/md'
 import {AiFillAppstore} from 'react-icons/ai'
 import {AiFillMessage} from 'react-icons/ai'
-import {LiaMedalSolid} from 'react-icons/li'
+import {LiaMedalSolid} from 'react-icons/lia'
 
 
 const data = [
