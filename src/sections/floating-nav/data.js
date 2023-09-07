@@ -3,6 +3,7 @@ import {BsPersonFill} from 'react-icons/bs'
 import {MdHomeRepairService} from 'react-icons/md'
 import {AiFillAppstore} from 'react-icons/ai'
 import {AiFillMessage} from 'react-icons/ai'
+import {LiaMedalSolid} from 'react-icons/li'
 
 
 const data = [
@@ -10,7 +11,8 @@ const data = [
     {id: 2, link: '#about', icon: <BsPersonFill/>},
     {id: 3, link: '#services', icon: <MdHomeRepairService/>},
     {id: 4, link: '#portfolio', icon: <AiFillAppstore/>},
-    {id: 5, link: '#contact', icon: <AiFillMessage/>}
+    {id: 5, link: '#faqs', icon: <AiaMedalSolid/>},
+    {id: 6, link: '#contact', icon: <AiFillMessage/>}
     
 ]
 
