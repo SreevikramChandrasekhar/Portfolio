@@ -11,6 +11,7 @@ const data = [
     {id: 3, link: '#services', icon: <MdHomeRepairService/>},
     {id: 4, link: '#portfolio', icon: <AiFillAppstore/>},
     {id: 5, link: '#contact', icon: <AiFillMessage/>}
+    
 ]
 
 

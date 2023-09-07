@@ -6,7 +6,8 @@ export const links = [
     {id: 2, link: '#about', title: 'About'},
     {id: 3, link: '#services', title: 'Interests'},
     {id: 4, link: '#portfolio', title: 'Projects'},
-    {id: 5, link: '#contact', title: 'Contact'}
+    {id: 5, link: '#faqs', title: 'Awards'},
+    {id: 6, link: '#contact', title: 'Contact'}
 ]
 
 
