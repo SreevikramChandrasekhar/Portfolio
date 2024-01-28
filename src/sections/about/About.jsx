@@ -28,10 +28,10 @@ const About = () => {
                     }
                 </div> */}
                 <p>
-                I am a highly motivated and results-oriented software professional with a background in both Machine Learning and Software Development. My experience encompasses the complete software development lifecycle, from designing and developing systems to implementing, testing, and maintaining them. Known for my strong attention to detail, ability to meet project deadlines, and quick learning aptitude, I have consistently excelled in my academic and professional endeavors.
+                I am a highly motivated and results-oriented software professional with a background in Software Development. My experience encompasses the complete software development lifecycle, from designing and developing systems to implementing, testing, and maintaining them. Known for my strong attention to detail, ability to meet project deadlines, and quick learning aptitude, I have consistently excelled in my academic and professional endeavors.
                 </p>
                 <p>
-                Having successfully completed my Master's degree in Computer Science at Santa Clara University, I am now eager to leverage my educational foundation, analytical skills, and programming expertise to excel as a Software Professional.
+                Having successfully completed my Master's degree in Computer Science at Santa Clara University, I am now eager to leverage my educational foundation, analytical skills, and programming expertise to excel as a Software Engineer.
                 </p>
                 <p>
                 My technical skills include:
@@ -40,13 +40,13 @@ const About = () => {
                 Programming Languages- Java, Python, C/C++, Assembly Level Programming, Linux, Unix. 
                 </p>
                 <p>
-                Web Development- HTML, CSS, JavaScript, React.js.
+                Web Development- HTML, CSS, JavaScript, React.js, Express.js, Node.js, MERN Stack.
                 </p>
                 <p>
-                Databases- SQL, MySQL, NoSQL.
+                Databases- SQL, MySQL, MongoDB.
                 </p>
                 <p>
-                Other Technologies- AWS, Kubernetes, Docker, Spring Boot Framework, Qt Framework, JSON, REST API’s, Postman, SVN, Git, MATLAB.
+                Other Technologies- AWS, Kubernetes, Docker, Spring Boot Framework, Qt Framework, JSON, REST API’s, Postman, SVN, Git, MATLAB, Machine Learning.
                 </p>
                 <a href={CV} download className='btn primary'>Download CV <HiDownload/></a>
             </div>
