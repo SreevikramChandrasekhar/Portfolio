@@ -40,7 +40,7 @@ const About = () => {
                 Programming Languages- Java, Python, C/C++, Assembly Level Programming, Linux, Unix. 
                 </p>
                 <p>
-                Web Development- HTML, CSS, JavaScript, React.js, Express.js, Node.js, MERN Stack.
+                Web Development- HTML, CSS, JavaScript, React.js, Express.js, Node.js, MERN Stack
                 </p>
                 <p>
                 Databases- SQL, MySQL, MongoDB.
